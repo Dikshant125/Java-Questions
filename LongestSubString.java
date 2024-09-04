@@ -8,13 +8,6 @@
 import java.util.Scanner;
 
 public class LongestSubString {
-    /***
-     * Question: Longest Substring Without Repeating Characters.
-     * Owner name: Affan Sayeed
-     *  lengthOfLongestSubstring() is a  method which take input as a string and return the max_length string.
-     * Date: 3-9-2024
-     */
-
     public static int max(int a, int b) {
         return (a > b) ? a : b;
     }
